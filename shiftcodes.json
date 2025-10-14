@@ -6,7 +6,7 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/DankestMemeLord/autoshift-codes/refs/heads/main/shiftcodes.json",
       "generated": {
-        "human": "2025-10-14 07:59:40.819271+00:00"
+        "human": "2025-10-14 19:59:40.846109+00:00"
       },
       "newcodecount": 1
     },
@@ -6827,6 +6827,17 @@
         "platform": "universal",
         "reward": "1 Golden Key",
         "archived": "2025-10-03 04:16:17.117559+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "BZ6JJ-CB6CT-WXJJW-3TT3B-56FZ5",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Vex Cosmetic\u201cPurple Friday\u201d",
+        "archived": "2025-10-14 19:59:40.819459+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
