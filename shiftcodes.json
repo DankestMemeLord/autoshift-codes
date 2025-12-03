@@ -6,7 +6,7 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/DankestMemeLord/autoshift-codes/refs/heads/main/shiftcodes.json",
       "generated": {
-        "human": "2025-11-25 22:24:55.019184+00:00"
+        "human": "2025-12-03 15:11:32.062571+00:00"
       },
       "newcodecount": 1
     },
@@ -6733,23 +6733,23 @@
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
       },
       {
+        "code": "T9F33-TXW9J-5RTT5-3JTJJ-RR6R6",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Key",
+        "archived": "2025-12-03 15:11:32.036843+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
         "code": "JZX33-ZKWST-5XT3W-JTBJ3-66BXB",
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "3 Golden Key",
         "archived": "2025-11-25 22:24:54.995463+00:00",
-        "expires": "Unknown",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "JHFJB-6KCHJ-5XBB5-JBTBJ-6FRRJ",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "3 Golden Key",
-        "archived": "2025-11-19 08:28:49.155456+00:00",
         "expires": "Unknown",
         "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -6803,18 +6803,7 @@
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
-        "reward": "Gourd Your LoinsPumpkin Head",
-        "archived": "2025-10-23 19:13:49.263812+00:00",
-        "expires": "Unknown",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "3S6BB-ZXT93-KRT3W-BT3T3-JW6TZ",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "Hex AppealWeapon Skin",
+        "reward": "Halloween Cosmetics",
         "archived": "2025-10-23 19:13:49.263812+00:00",
         "expires": "Unknown",
         "expired": false,
