@@ -6,9 +6,9 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/DankestMemeLord/autoshift-codes/refs/heads/main/shiftcodes.json",
       "generated": {
-        "human": "2026-04-06 19:32:30.571308+00:00"
+        "human": "2026-04-10 07:32:30.605175+00:00"
       },
-      "newcodecount": 2
+      "newcodecount": 1
     },
     "codes": [
       {
@@ -6733,6 +6733,17 @@
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
       },
       {
+        "code": "BS633-3XR9T-W6TJ5-J33JJ-RWT5T",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2026-04-10 07:32:30.573214+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
         "code": "3ZRT3-K59KK-W6BJ5-B3TJ3-9WT99",
         "type": "shift",
         "game": "Borderlands 4",
@@ -6751,7 +6762,7 @@
         "reward": "3 Golden Keys",
         "archived": "2026-04-03 09:32:33.252744+00:00",
         "expires": "Unknown",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -6783,28 +6794,6 @@
         "platform": "universal",
         "reward": "5 Golden KeysPax Code",
         "archived": "2026-03-26 23:32:30.483553+00:00",
-        "expires": "Unknown",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "3HRTT-65XHT-W6B3C-3JBTT-HCJ5B",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2026-03-26 23:32:30.483553+00:00",
-        "expires": "Unknown",
-        "expired": true,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "J963B-S66WK-56J3K-JJT3T-BF9T5",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "Vault Hunter SkinLuck of the Kairish",
-        "archived": "2026-03-17 08:00:49.808213+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
