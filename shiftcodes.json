@@ -6,7 +6,7 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/DankestMemeLord/autoshift-codes/refs/heads/main/shiftcodes.json",
       "generated": {
-        "human": "2026-07-29 19:37:35.977176+00:00"
+        "human": "2026-08-07 09:37:36.488621+00:00"
       },
       "newcodecount": 1
     },
@@ -6722,11 +6722,22 @@
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
       },
       {
+        "code": "THFB3-SW99B-W6JB5-JTTJ3-SKK9W",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2026-08-07 09:37:36.458467+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
         "code": "BZR3T-TXHZB-KXTJ5-3JTJ3-CZ5WH",
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
-        "reward": "3 golden keys",
+        "reward": "3 Golden Keys",
         "archived": "2026-07-29 19:37:35.948198+00:00",
         "expires": "Unknown",
         "expired": false,
@@ -6740,7 +6751,7 @@
         "reward": "3 Golden Keys",
         "archived": "2026-07-19 23:37:25.852481+00:00",
         "expires": "Unknown",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
